@@ -1,6 +1,6 @@
 # Timetable Manegement App
 ## Overview
-The Departmental Timetable Management App is a Shiny application designed to help organize and manage the academic timetable for the Department of Mathematics at the University of Sri Jayewardenepura. It includes features to view and manage master timetables, and hall-specific and lecturer-specific schedules.
+The Departmental Timetable Management App is a Shiny application designed to help organize and manage the academic timetable for the Department of XYZ at ABC University. It includes features to view and manage master timetables and hall-specific and lecturer-specific schedules.
 
 ## Features
 
