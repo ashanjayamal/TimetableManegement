@@ -21,20 +21,6 @@ A web-based application for managing and viewing university department timetable
   - Special notations for courses (optional/restricted)
   - Tutorial sessions displayed separately
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/timetable-organizer.git
-   ```
-
-
-2. Navigate to the project directory:
-   ```bash
-   cd timetable-organizer
-   ```
-
-3. Open `index.html` in your browser (no server required)
 
 ## Data Structure
 
