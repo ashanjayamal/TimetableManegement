@@ -21,38 +21,13 @@ A web-based application for managing and viewing university department timetable
   - Special notations for courses (optional/restricted)
   - Tutorial sessions displayed separately
 
-Here's a comprehensive `README.md` file for your Timetable Application:
-
-```markdown
-# Departmental Timetable Organizer
-
-![Application Screenshot](./screenshot.png)
-
-A web-based application for managing and viewing university department timetables, including master schedules, hall allocations, and lecturer timetables.
-
-## Features
-
-- **Three View Modes**:
-  - Master Timetable (by year and subject)
-  - Hall Timetable (by lecture hall)
-  - Lecturer Timetable (by faculty member)
-
-- **Interactive Tables**:
-  - Clean default states with helpful placeholders
-  - Responsive design for all screen sizes
-  - Hover effects for better readability
-
-- **Additional Information**:
-  - Course details with venues and lecturers
-  - Special notations for courses (optional/restricted)
-  - Tutorial sessions displayed separately
-
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/timetable-organizer.git
    ```
+
 
 2. Navigate to the project directory:
    ```bash
@@ -132,8 +107,8 @@ The application works on all modern browsers:
 ## Screenshots
 
 
-![Master Timetable View](./screenshots/master-view.png)
-*Master timetable showing weekly schedule*
+![Lecturer Timetable View](https://github.com/user-attachments/assets/cc19988b-beec-4d7e-9bc4-d6012dedbaa2)
+*Lecturer timetable showing weekly schedule*
 
 ![Hall Timetable View](https://github.com/user-attachments/assets/834d5b3d-c828-4ebb-847e-8be7acf21126)
 *Hall timetable showing room allocations*
